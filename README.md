@@ -5,4 +5,4 @@
 <img src="https://user-images.githubusercontent.com/43689290/204059626-04e45d35-8e3a-4de6-af22-2fc28f6069ff.png" width=550 height=200>
 
 # Net MAUI - Shadows
-<img src="https://user-images.githubusercontent.com/43689290/204413680-4eeff067-ad03-43fe-aae0-183687608e69.png" width=550 height=200>
+<img src="https://user-images.githubusercontent.com/43689290/204413680-4eeff067-ad03-43fe-aae0-183687608e69.png" width=450 height=200>
