@@ -11,7 +11,7 @@
 
             <Image
                 Source="full_trailhead_logo.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                SemanticProperties.Description="Trailhead logo"
                 HeightRequest="200"
                 HorizontalOptions="Center" >
                 <Image.Shadow>
